@@ -1,0 +1,12 @@
+{application, reactive_bananerl, [
+  {description,  "An experimental Erlang port of reactive-banana."},
+  {vsn,          "0.1.0"},
+  {applications, [kernel, stdlib]},
+  {modules,      []},
+
+  {maintainers, ["Eric Bailey"]},
+  {licenses,    ["BSD-3"]},
+  {links, [
+    {"GitHub", "https://github.com/quasiquoting/reactive_bananerl"}
+  ]}
+]}.
