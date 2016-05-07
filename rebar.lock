@@ -1,0 +1,4 @@
+[{<<"zlists">>,
+  {git,"git://github.com/vjache/erlang-zlists",
+       {ref,"539c55dd121e542e6efc302b843d80f67f1fdca9"}},
+  0}].
