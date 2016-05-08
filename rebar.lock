@@ -1,6 +1,6 @@
 [{<<"erlando">>,
   {git,"git://github.com/quasiquoting/erlando",
-       {ref,"1c1ef25a9bc228671b32b4a6ee30c7525314b1fd"}},
+       {ref,"a4728f12fdfbe283fc1d4690fa47bca59db681d4"}},
   0},
  {<<"zlists">>,
   {git,"git://github.com/vjache/erlang-zlists",
